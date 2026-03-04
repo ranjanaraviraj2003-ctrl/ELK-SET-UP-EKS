@@ -20,7 +20,7 @@ spec:
         - name: ELASTICSEARCH_HOSTS
           value: "http://elasticsearch:9200"
         - name: XPACK_ENCRYPTEDSAVEDOBJECTS_ENCRYPTIONKEY
-          value: "ezDCgVOh37So+vhVZeiQ2V+gHhKscmCqkwbnDgvpJnA="
+          value: "zfhPH/wmqyenzEjPjqA/f4VlWWw3d1mA//xSXvzPpZI="
         ports:
         - containerPort: 5601
 
